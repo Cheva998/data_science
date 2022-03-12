@@ -98,7 +98,7 @@ parso==0.7.0
 partd==1.1.0
 patsy==0.5.1
 pickleshare==0.7.5
-Pillow==7.1.2
+Pillow==9.0.1
 plac==0.9.6
 plotly==4.6.0
 preshed==1.0.1
