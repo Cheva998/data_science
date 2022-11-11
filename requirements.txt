@@ -118,7 +118,7 @@ pyproj==1.9.6
 pyreadline==2.1
 pyrsistent==0.16.0
 PySocks==1.7.1
-pyspark==2.4.5
+pyspark==3.2.2
 python-dateutil==2.8.1
 pytz==2019.3
 pywin32==227
